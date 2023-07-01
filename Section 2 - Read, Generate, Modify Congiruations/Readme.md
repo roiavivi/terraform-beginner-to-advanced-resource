@@ -61,5 +61,4 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
 [PlDx]: <./tf-comments.tf>
 [PlDy]: <./challenge-count.md>
 [PlDz]: <./for_each.md>
-[PlDz]: <./output.md>
 
