@@ -33,6 +33,7 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
 | 24 | [Comments in Terraform][PlDx] |
 | 25 | [Challenges with Count][PlDy] |
 | 26 | [for_each in Terraform][PlDz] |
+| 27 | [Output][PlDt] |
 
 [PlDa]: <./attributes.tf>
 [PlDb]: <./reference.md>
@@ -60,3 +61,5 @@ The code mentioned in this document are used in the HashiCorp Certified Terrafor
 [PlDx]: <./tf-comments.tf>
 [PlDy]: <./challenge-count.md>
 [PlDz]: <./for_each.md>
+[PlDz]: <./output.md>
+
