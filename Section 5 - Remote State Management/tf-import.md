@@ -1,3 +1,34 @@
+### NEW:
+provider "aws" {
+region  = "ap-southeast"
+}
+
+import {
+to = aws_security_group.mysg
+id = "sg-07123123sasd"
+}
+
+
+### Command To Import Resource
+
+```sh
+terraform plan -generate-config-out=mysg.tf
+terraform apply
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Documentation Referred:
 
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
