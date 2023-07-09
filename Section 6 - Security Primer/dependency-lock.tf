@@ -20,3 +20,6 @@ resource "aws_instance" "web" {
 }
 
 
+### Note
+
+terraform init -upgrade
